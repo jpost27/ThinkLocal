@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import java.util.logging.Handler;
-
+//Josh Post is awesome
 public class LoadingPage extends AppCompatActivity {
 
     @Override
